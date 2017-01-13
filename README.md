@@ -3,7 +3,8 @@ A script that can be used on an Alexa-enabled device that will read the top news
 
 ## How to use
 * Download or clone the repo
-* Run the headline_reader.py
+* Open the headline_reader.py in a text editor and insert your reddit username and password
+* Run headline_reader.py in command prompt/terminal
 * Execute ngrok.exe
 * In command prompt/terminal, type ngrok http 5000
 * Navigate to the [Amazon Developer Website](https://goo.gl/hl4kwD)
